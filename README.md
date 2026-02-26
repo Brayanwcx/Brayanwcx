@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+<p align="center"> ## 🧑‍💻 Sobre mí</p>
 - 🔹 Me gusta convertir ideas en aplicaciones funcionales  
 - 🔹 Aprendiz constante de nuevas tecnologías  
 - 🔹 Amante del código limpio y bien estructurado  
@@ -20,33 +20,65 @@
 
 ---
 
-## 🛠️ Tecnologías
+<p align="center">## 🛠️ Tecnologías</p>
 ![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,mysql,docker,git,github,html,css,js)
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">## 📊 GitHub Stats</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brayanwcx&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brayanwcx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanwcx&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🚀 Proyectos destacados
-- 🔹 [API De Pokemon ](https://github.com/Brayanwcx/Pokemon_api.git)
-- 🔹 [Calculadora De Edad](https://github.com/Brayanwcx/ejercicio-14.git)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanwcx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
-## 📫 Contáctame
+<h2 align="center">🚀 Proyectos Destacados</h2>
+
+<p align="center">
+Algunos de mis proyectos más importantes desarrollados con tecnologías modernas.
+</p>
+
+<hr>
+
+<h3 align="center">📌 Proyecto Api De Pokemon</h3>
+
+<p align="center">
+Api De Pokemon 
+</p>
+
+<p align="center">
+<a href="https://github.com/Brayanwcx/Pokemon_api.git" target="_blank">
+<img src="https://img.shields.io/badge/Repositorio-GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+<hr>
+
+<h3 align="center">💰 Proyecto Para Calcular La Edad</h3>
+
+<p align="center">
+Calculadora De Edad
+</p>
+
+<p align="center">
+<a href="https://github.com/Brayanwcx/ejercicio-14.git" target="_blank">
+<img src="https://img.shields.io/badge/Repositorio-GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+<hr>
+
+---
+
+<p align="center">## 📫 Contáctame</p>
 - 📧 Email: brayanleo019@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/brayan-pérez-3524b43b3
 
 
 ---
 
-## 👀 Visitas a mi perfil
+<p align="center">## 👀 Visitas a mi perfil</p>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Brayanwcx)
 
 ---
