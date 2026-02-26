@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hola, soy Brayan Pérez</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDN6NjNibGl1bG1rMnhhYmI2aDZ4YWh4Nm9wamFwa3p3azhtaHVueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="300"/>
 </p>
 
 💻 Desarrollador de Software apasionado por crear soluciones modernas, eficientes y escalables.  
