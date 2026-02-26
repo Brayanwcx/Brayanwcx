@@ -29,18 +29,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brayanwcx&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanwcx&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
----
-
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
 <p align="center">Algunos de mis proyectos más importantes desarrollados con tecnologías modernas.</p>
