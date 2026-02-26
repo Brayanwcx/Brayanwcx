@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAHCYuFJu8k/EQ3Pj8asSk_W-JqCMia0yA/edit?utm_content=DAHCYuFJu8k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Banner](file:///C:/Users/braya/Downloads/Banner%20para%20Twitch%20Gamer%20Neón%20Morado%20y%20Negro.png)
 
 <h1 align="center">👋 Hola, soy Brayan Pérez</h1>
 
@@ -26,9 +26,10 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brayanwcx&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanwcx&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayanwcx&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanwcx&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
