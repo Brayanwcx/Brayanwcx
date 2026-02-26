@@ -57,7 +57,6 @@
 
 ---
 
-<hr>
 
 <h2 align="center">✨ Más proyectos</h2>
 
@@ -86,6 +85,8 @@ Mira todos mis trabajos y repositorios disponibles en GitHub.
 <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
 </a>
 </p>
+
+---
 
 <h2 align="center">👀 Visitas a mi perfil</h2>
 
