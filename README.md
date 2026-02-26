@@ -1,4 +1,4 @@
-![Banner](https://github.com/Brayanwcx/Brayanwcx/blob/main/Banner%20para%20Twitch%20Gamer%20Ne%C3%B3n%20Morado%20y%20Negro.png)
+![Banner](https://raw.githubusercontent.com/Brayanwcx/Brayanwcx/main/Banner%20para%20Twitch%20Gamer%20Ne%C3%B3n%20Morado%20y%20Negro.png)
 
 <h1 align="center">👋 Hola, soy Brayan Pérez</h1>
 
@@ -12,7 +12,8 @@
 
 ---
 
-<p align="center"> ## 🧑‍💻 Sobre mí</p>
+<h2 align="center">🧑‍💻 Sobre mí</h2>
+
 - 🔹 Me gusta convertir ideas en aplicaciones funcionales  
 - 🔹 Aprendiz constante de nuevas tecnologías  
 - 🔹 Amante del código limpio y bien estructurado  
@@ -20,81 +21,67 @@
 
 ---
 
-<p align="center">## 🛠️ Tecnologías</p>
-![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,mysql,docker,git,github,html,css,js)
+<h2 align="center">🛠️ Tecnologías</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,mysql,docker,git,github,html,css,js">
+</p>
 
 ---
 
-<p align="center">## 📊 GitHub Stats</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brayanwcx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=brayanwcx&show_icons=true&theme=tokyonight&hide_border=true">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanwcx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanwcx&layout=compact&theme=tokyonight&hide_border=true">
+</p>
 
 ---
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
-<p align="center">
-Algunos de mis proyectos más importantes desarrollados con tecnologías modernas.
-</p>
+<p align="center">Algunos de mis proyectos más importantes desarrollados con tecnologías modernas.</p>
 
 <hr>
 
-<h3 align="center">📌 Proyecto Api De Pokemon</h3>
+<h3 align="center">📌 Proyecto API de Pokémon</h3>
+<p align="center">API de Pokémon</p>
 
 <p align="center">
-Api De Pokemon 
-</p>
-
-<p align="center">
-<a href="https://github.com/Brayanwcx/Pokemon_api.git" target="_blank">
+<a href="https://github.com/Brayanwcx/Pokemon_api">
 <img src="https://img.shields.io/badge/Repositorio-GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
 
 <hr>
 
-<h3 align="center">💰 Proyecto Para Calcular La Edad</h3>
+<h3 align="center">2🔥 Proyecto Calculadora de Edad</h3>
+<p align="center">Calculadora de edad</p>
 
 <p align="center">
-Calculadora De Edad
-</p>
-
-<p align="center">
-<a href="https://github.com/Brayanwcx/ejercicio-14.git" target="_blank">
+<a href="https://github.com/Brayanwcx/ejercicio-14">
 <img src="https://img.shields.io/badge/Repositorio-GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
-
-<hr>
 
 ---
 
-<p align="center">## 📫 Contáctame</p>
+<h2 align="center">📫 Contáctame</h2>
+
 - 📧 Email: brayanleo019@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/brayan-pérez-3524b43b3
-
+- 💼 LinkedIn: https://www.linkedin.com/in/brayan-pérez-3524b43b3  
 
 ---
 
-<p align="center">## 👀 Visitas a mi perfil</p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Brayanwcx)
+<h2 align="center">👀 Visitas a mi perfil</h2>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Brayanwcx">
+</p>
 
 ---
 
 ⭐ Gracias por visitar mi perfil. Siempre abierto a aprender, colaborar y crecer como desarrollador.
-<!--
-**Brayanwcx/Brayanwcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
