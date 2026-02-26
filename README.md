@@ -46,7 +46,7 @@
 
 <hr>
 
-<h3 align="center">2🔥 Proyecto Calculadora de Edad</h3>
+<h3 align="center">🔥 Proyecto Calculadora de Edad</h3>
 <p align="center">Calculadora de edad</p>
 
 <p align="center">
@@ -57,12 +57,35 @@
 
 ---
 
-<h2 align="center">📫 Contáctame</h2>
+<hr>
 
-- 📧 Email: brayanleo019@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/brayan-pérez-3524b43b3  
+<h2 align="center">✨ Más proyectos</h2>
+
+<p align="center">
+Mira todos mis trabajos y repositorios disponibles en GitHub.
+</p>
+
+<p align="center">
+<a href="https://github.com/Brayanwcx?tab=repositories">
+<img src="https://img.shields.io/badge/👉 Ver%20Repositorios-1f6feb?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
+
+<h2 align="center">📬 Contáctame</h2>
+
+<p align="center">
+<a href="mailto:brayanleo019@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+<a href="https://www.linkedin.com/in/brayan-pérez-3524b43b3">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+<a href="https://www.instagram.com/brayan.wcx?igsh=Z3NocjU3cGZvcjZq">
+<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+</a>
+</p>
 
 <h2 align="center">👀 Visitas a mi perfil</h2>
 
